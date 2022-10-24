@@ -1,5 +1,7 @@
 # Ace’s Barbershop Website Selenium Automated Tests
 
+These tests are automated tests using Selenium to test the functionality of Ace's Barbershop Website.
+
 ## Tools 
 
 * Windows Operating System
