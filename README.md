@@ -19,7 +19,7 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 
 
 ## Setup
-1. First are on a Windows Operating Systems and that you have Google Chrome downloaded
+1. First make sure you are on a Windows Operating Systems and that you have Google Chrome downloaded
 2. Next make sure you have terminal or powershell. If not download using links above in tools
 3. Pull the GitHub repository provided in the tools to your local machine. Then make sure you install selenium, webdriver_manager, and packaging. To install those plug ins
   - In terminal/powershell:
