@@ -21,7 +21,13 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 ## Setup
 1. First make sure you are on a Windows Operating Systems and that you have Google Chrome downloaded
 2. Next make sure you have terminal or powershell. If not download using links above in tools
-3. Pull the GitHub repository provided in the tools to your local machine. Then make sure you install selenium, webdriver_manager, and packaging. To install those plug ins
+3. First, download Python3. Please follow the link provided in the tools.
+4. Pull the GitHub repository provided in the tools to your local machine. Make sure you are on the correct path (Path to the test files). 
+  - Example: 
+    ```
+    
+    ```
+5. Then make sure you install selenium, webdriver_manager, and packaging. To install those plug ins
   - In terminal/powershell:
     ```
     pip3 install selenium==4.50
@@ -30,7 +36,7 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 
     pip3 install packaging==21.3
     ```
-4. To run any test file, file path should be:
+6. To run any test file, file path should be:
     ```
     Python <Python Test File Name>
     ```
