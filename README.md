@@ -1,6 +1,6 @@
 # Ace’s Barbershop Website Selenium Automated Tests
 
-These tests are automated tests using Selenium to test the functionality of Ace's Barbershop Website.
+These tests are automated tests using Selenium to test the functionality of Ace's Barbershop Website. Please refer to thie README.md or the System Test report to learn how to run these tests.
 
 ## Tools 
 
@@ -25,18 +25,18 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 4. Pull the GitHub repository provided in the tools to your local machine. Make sure you are on the correct path (Path to the test files). 
   - Example: 
     ```
-    
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>
     ```
 5. Then make sure you install selenium, webdriver_manager, and packaging. To install those plug ins
-  - In terminal/powershell:
+  - For example, in terminal/powershell:
     ```
-    pip3 install selenium==4.50
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install selenium==4.50
     
-    pip3 install webdriver_manager==3.8.4
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install webdriver_manager==3.8.4
 
-    pip3 install packaging==21.3
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install packaging==21.3
     ```
 6. To run any test file, file path should be:
     ```
-    Python <Python Test File Name>
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>Python <Python Test File Name>
     ```
