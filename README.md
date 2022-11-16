@@ -20,15 +20,15 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 
 ## Setup
 1. First make sure you are on a Windows Operating Systems and that you have Google Chrome downloaded
-2. Next make sure you have terminal or powershell. If not download using links above in tools
+2. Make sure you have Command Prompt, Terminal, or Powershell. If not, download Powershell using links above in tools.
 3. Download Python3. Please follow the link provided in the tools.
 4. Pull the GitHub repository provided in the tools to your local machine. 
-5. Open Command Prompt/Terminal/Powershell and go to the directory of the pulled GitHub repository (Powershell link available in tools). Make sure you are on the correct path (Path to the test files). 
-  - Example: 
+5. Open Command Prompt/Terminal/Powershell and go to the directory of the pulled GitHub repository (Powershell link available in tools). Make sure you are on the correct path (Path to the test files).
+  - For example, a directory path in Command Prompt/Terminal/Powershell could be:
     ```
     C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>
     ```
-6. Then make sure you install selenium, webdriver_manager, and packaging. To install those plug ins
+6. In the correct directory path, make sure you install selenium, webdriver_manager, and packaging. To install those plugins:
   - For example, in Command Prompt/Terminal/Powershell:
     ```
     C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install selenium==4.50
@@ -37,7 +37,8 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 
     C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install packaging==21.3
     ```
-7. To run any test file in the directory, file path should be:
+7. After installing the three plugins and still in the correct directory path, type the following to run the test files (<Python Test File Name> would change a specific file name provided in each the test cases in section 2 Functional Test: Automation via Selenium): 
+  - For example, in Command Prompt/Terminal/Powershell:
     ```
     C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>Python <Python Test File Name>
     ```
