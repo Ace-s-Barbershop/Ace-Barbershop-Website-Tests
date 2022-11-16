@@ -37,7 +37,7 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 
     C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install packaging==21.3
     ```
-7. To run any test file, file path should be:
+7. To run any test file in the directory, file path should be:
     ```
     C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>Python <Python Test File Name>
     ```
