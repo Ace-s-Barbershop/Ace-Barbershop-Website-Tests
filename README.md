@@ -4,11 +4,11 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 
 ## Tools 
 
-* Windows Operating System
-* Google Chrome Browser
-* Command Prompt/Terminal/Powershell
+* Windows Operating System (Windows 10 or above)
+* Google Chrome Browser (Latest Version)
+* Command Prompt/Terminal/Powershell (Latest Version)
   - Powershell free and available online: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2
-* Python3
+* Python3 (Latest Version)
   - Available: https://www.python.org/downloads/
 * Selenium Python Plug In (Version 4.5.0)
   - More information: https://selenium-python.readthedocs.io/installation.html
@@ -17,14 +17,13 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 * ChromeDriver
   - More information: https://chromedriver.chromium.org/downloads
 
-
 ## Setup
 1. First make sure you are on a Windows Operating Systems and that you have Google Chrome downloaded
 2. Make sure you have Command Prompt, Terminal, or Powershell. If not, download Powershell using links above in tools.
 3. Download Python3. Please follow the link provided in the tools.
 4. Pull the GitHub repository provided in the tools to your local machine. 
 5. Open Command Prompt/Terminal/Powershell and go to the directory of the pulled GitHub repository (Powershell link available in tools). Make sure you are on the correct path (Path to the test files).
-  - For example, a directory path in Command Prompt/Terminal/Powershell could be:
+  - For example, the directory path in Command Prompt/Terminal/Powershell could be:
     ```
     C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>
     ```
