@@ -25,19 +25,19 @@ These tests are automated tests using Selenium to test the functionality of Ace'
 5. Open Command Prompt/Terminal/Powershell and go to the directory of the pulled GitHub repository (Powershell link available in tools). Make sure you are on the correct path (Path to the test files).
   - For example, the directory path in Command Prompt/Terminal/Powershell could be:
     ```
-    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests-main>
     ```
 6. In the correct directory path, make sure you install selenium, webdriver_manager, and packaging. To install those plugins:
   - For example, in Command Prompt/Terminal/Powershell:
     ```
-    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install selenium==4.50
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests-main>pip3 install selenium==4.50
     
-    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install webdriver_manager==3.8.4
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests-main>pip3 install webdriver_manager==3.8.4
 
-    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>pip3 install packaging==21.3
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests-main>pip3 install packaging==21.3
     ```
 7. After installing the three plugins and still in the correct directory path, type the following to run the test files (<Python Test File Name> would change a specific file name provided in each the test cases in section 2 Functional Test: Automation via Selenium): 
   - For example, in Command Prompt/Terminal/Powershell:
     ```
-    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests>Python <Python Test File Name>
+    C:\Users\user\Desktop\Ace-Barbershop-Website-Tests-main>Python <Python Test File Name>
     ```
