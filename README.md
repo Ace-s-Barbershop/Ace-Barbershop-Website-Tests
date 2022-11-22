@@ -1,6 +1,6 @@
 # Ace’s Barbershop Website Selenium Automated Tests
 
-These tests are automated tests using Selenium to test the functionality of Ace's Barbershop Website. Please refer to this README.md or the System Test report to learn how to run these tests.
+These tests are automated tests using Selenium to test the functionality of the Navbar, Sidebar, and Sign In Feature in Ace's Barbershop Website. Please refer to this README.md or the System Test report to learn how to run these tests.
 
 ## Tools 
 
