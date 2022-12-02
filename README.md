@@ -8,7 +8,7 @@ These tests are automated tests using Selenium to test the functionality of the 
 * Google Chrome Browser (Latest Version)
 * Command Prompt/Terminal/Powershell (Latest Version)
   - Powershell free and available online: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2
-* Python3 (Latest Version)
+* Python3 (Version 3.11.0)
   - Available: https://www.python.org/downloads/
 * Selenium Python Plug In (Version 4.5.0)
   - More information: https://selenium-python.readthedocs.io/installation.html
